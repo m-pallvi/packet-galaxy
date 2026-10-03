@@ -1,0 +1,227 @@
+{
+  "stars": [
+    {
+      "ip": "192.0.2.220",
+      "packets": 2404,
+      "bytes": 2641996,
+      "protocol": "TCP",
+      "ports": [
+        443
+      ]
+    },
+    {
+      "ip": "192.0.2.219",
+      "packets": 1085,
+      "bytes": 977585,
+      "protocol": "TCP",
+      "ports": [
+        443
+      ]
+    },
+    {
+      "ip": "192.0.2.122",
+      "packets": 682,
+      "bytes": 643808,
+      "protocol": "TCP",
+      "ports": [
+        443
+      ]
+    },
+    {
+      "ip": "203.0.113.24",
+      "packets": 491,
+      "bytes": 417841,
+      "protocol": "UDP",
+      "ports": [
+        3478
+      ]
+    },
+    {
+      "ip": "198.51.100.168",
+      "packets": 381,
+      "bytes": 402336,
+      "protocol": "TCP",
+      "ports": [
+        993,
+        3478
+      ]
+    },
+    {
+      "ip": "192.0.2.17",
+      "packets": 309,
+      "bytes": 111240,
+      "protocol": "TCP",
+      "ports": [
+        443,
+        993
+      ]
+    },
+    {
+      "ip": "203.0.113.154",
+      "packets": 260,
+      "bytes": 85800,
+      "protocol": "TCP",
+      "ports": [
+        443
+      ]
+    },
+    {
+      "ip": "192.0.2.60",
+      "packets": 223,
+      "bytes": 212965,
+      "protocol": "TCP",
+      "ports": [
+        80,
+        993,
+        3478
+      ]
+    },
+    {
+      "ip": "203.0.113.170",
+      "packets": 195,
+      "bytes": 75465,
+      "protocol": "TCP",
+      "ports": [
+        443
+      ]
+    },
+    {
+      "ip": "198.51.100.142",
+      "packets": 173,
+      "bytes": 200680,
+      "protocol": "UDP",
+      "ports": [
+        3478
+      ]
+    },
+    {
+      "ip": "198.51.100.81",
+      "packets": 156,
+      "bytes": 167856,
+      "protocol": "TCP",
+      "ports": [
+        443
+      ]
+    },
+    {
+      "ip": "198.51.100.8",
+      "packets": 141,
+      "bytes": 52311,
+      "protocol": "TCP",
+      "ports": [
+        443
+      ]
+    },
+    {
+      "ip": "203.0.113.103",
+      "packets": 129,
+      "bytes": 52890,
+      "protocol": "TCP",
+      "ports": [
+        443
+      ]
+    },
+    {
+      "ip": "203.0.113.238",
+      "packets": 119,
+      "bytes": 42007,
+      "protocol": "UDP",
+      "ports": [
+        443
+      ]
+    },
+    {
+      "ip": "192.0.2.102",
+      "packets": 110,
+      "bytes": 80190,
+      "protocol": "TCP",
+      "ports": [
+        443
+      ]
+    },
+    {
+      "ip": "192.0.2.51",
+      "packets": 102,
+      "bytes": 111894,
+      "protocol": "TCP",
+      "ports": [
+        443
+      ]
+    }
+  ],
+  "dns": [
+    {
+      "name": "www.example.com",
+      "count": 5,
+      "odd": false
+    },
+    {
+      "name": "cdn.example.net",
+      "count": 6,
+      "odd": false
+    },
+    {
+      "name": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2.test.example.com",
+      "count": 4,
+      "odd": true
+    },
+    {
+      "name": "api.example.org",
+      "count": 2,
+      "odd": false
+    },
+    {
+      "name": "video.example.com",
+      "count": 5,
+      "odd": false
+    },
+    {
+      "name": "mail.example.net",
+      "count": 6,
+      "odd": false
+    },
+    {
+      "name": "updates.example.org",
+      "count": 1,
+      "odd": false
+    },
+    {
+      "name": "fonts.example.com",
+      "count": 7,
+      "odd": false
+    },
+    {
+      "name": "static.example.net",
+      "count": 2,
+      "odd": false
+    },
+    {
+      "name": "login.example.org",
+      "count": 3,
+      "odd": false
+    },
+    {
+      "name": "analytics.example.com",
+      "count": 4,
+      "odd": false
+    },
+    {
+      "name": "music.example.net",
+      "count": 2,
+      "odd": false
+    },
+    {
+      "name": "images.example.org",
+      "count": 1,
+      "odd": false
+    }
+  ],
+  "alerts": [
+    {
+      "type": "port_scan",
+      "src": "192.168.1.10",
+      "dst": "45.33.32.156",
+      "ports": 100
+    }
+  ]
+}
