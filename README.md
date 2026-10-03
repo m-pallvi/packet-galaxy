@@ -4,7 +4,7 @@
 
 ![Packet Galaxy](media/packet_galaxy_hero.png)
 
-▶ **[Watch the 45-second demo](media/packet_galaxy_demo.mp4)** · 🌌 **[Open the live demo](https://pallvi-networking-labs.github.io/packet-galaxy/)** (runs on safe sample data)
+▶ **[Watch the 45-second demo](media/packet_galaxy_demo.mp4)** · 🌌 **[Open the live demo](https://m-pallvi.github.io/packet-galaxy/)** (runs on safe sample data)
 
 ---
 
